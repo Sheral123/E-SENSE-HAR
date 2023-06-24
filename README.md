@@ -1,4 +1,3 @@
-Sure, here's a draft for your README file for your ESENSE HAR repository. Please replace `[INFO]` sections with your own information.
 
 ---
 # ESENSE HAR REPO
