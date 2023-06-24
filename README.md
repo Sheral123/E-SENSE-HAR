@@ -14,7 +14,7 @@ This repository contains code for Human Activity Recognition (HAR) using the ESE
 
 ## Dataset
 
-We use the ESENSE sensor dataset for Human Activity Recognition. Please place the dataset in the `data/` directory.
+We use the Dataset for Leave-One-Out cross-validation and my-data for random-split for Human Activity Recognition. 
 
 ## Methodology
 
@@ -35,25 +35,7 @@ The performance of our model was as follows:
 - `[INFO]: Performance metrics when using Leave-One-Out Cross-Validation`
 - `[INFO]: Performance metrics when using Random Split`
 
-Please replace the `[INFO]` sections with your model's performance metrics.
 
-## How to Run
-
-To run the Leave-One-Out Cross-Validation:
-
-```
-python leave_one_out.py
-```
-
-To run the Random Split:
-
-```
-python random_split.py
-```
-
-## Contact
-
-For any further questions, please feel free to reach out to me at [your-email@domain.com]
 
 ---
 
