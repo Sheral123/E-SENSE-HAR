@@ -1,7 +1,7 @@
 Sure, here's a draft for your README file for your ESENSE HAR repository. Please replace `[INFO]` sections with your own information.
 
 ---
-# ESENSE HAR Repository
+# ESENSE HAR REPO
 
 This repository contains code for Human Activity Recognition (HAR) using the ESENSE wearable sensor. We use two different methods to validate our models: Leave-One-Out cross-validation and Random Split.
 
@@ -63,9 +63,12 @@ The performance of our model was as follows:
 
 - SUPPORT VECTOR
 
--![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/39ff6a4a-f9e5-44d9-a9f6-f3809b6cb8d1)
+-![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/39ff6a4a-f9e5-44d9-a9f6-f3809b6cb8d1) 
 
-![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/5b71a7ca-80a4-4556-ac53-7cfc507b3ca1)
+-![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/cb834154-af1f-4fd4-b124-23c75ec57c99)
+
+
+
 
 
 
@@ -73,17 +76,18 @@ The performance of our model was as follows:
 
 - ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/d174e0c8-9aed-4b0a-8619-fe6bdf417401)
 
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/141569cd-ce1f-4c68-a71b-3e7678d0c142)
+
+
 
 - LOGISTIC REGRESSION
 
-- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/4624b342-ec96-4608-9235-a03e0cde62f0)
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/e3d84e10-4976-4d96-a126-0344308059d3)
 
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/d9e3d715-9068-4596-bc1f-f7ebd4b99d5d)
 
-
-- 
 
 
 
 ---
 
-This is just a basic template. Feel free to expand it to include more details about your project, such as the problem statement, more details about the methodology and results, how to interpret the results, any limitations of your current approach, future work, etc. The more details you can provide, the easier it will be for others to understand and use your code.
