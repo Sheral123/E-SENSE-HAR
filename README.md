@@ -33,7 +33,54 @@ In this method, we randomly split our data into a training set and a test set. T
 The performance of our model was as follows:
 
 - `[INFO]: Performance metrics when using Leave-One-Out Cross-Validation`
+- RANDOM FOREST
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/49465215-f319-4604-ac96-41957803fbab)
+
+- SUPPORT VECTOR
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/848a0aa6-b68a-41a6-a213-0036f8d65173)
+
+- MLP CLASSIFIER
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/a661fa0b-9b59-4f65-9685-118e233a7768)
+
+- LOGISTIC REGRESSION
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/4624b342-ec96-4608-9235-a03e0cde62f0)
+
+
+
+
 - `[INFO]: Performance metrics when using Random Split`
+- - RANDOM FOREST
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/f9d965fe-1bc3-4b1c-9a05-43ed9755df86)
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/a561b086-76af-4219-81f4-74b87c1078c6)
+
+
+
+- SUPPORT VECTOR
+
+-![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/39ff6a4a-f9e5-44d9-a9f6-f3809b6cb8d1)
+
+![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/5b71a7ca-80a4-4556-ac53-7cfc507b3ca1)
+
+
+
+- MLP CLASSIFIER
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/d174e0c8-9aed-4b0a-8619-fe6bdf417401)
+
+
+- LOGISTIC REGRESSION
+
+- ![image](https://github.com/Sheral123/E-SENSE-HAR/assets/90202819/4624b342-ec96-4608-9235-a03e0cde62f0)
+
+
+
+- 
 
 
 
